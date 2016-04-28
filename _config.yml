@@ -1,0 +1,15 @@
+# Site settings
+#source: .
+title: Convict Films
+email: saul@convictfilms.com
+description: > # this means to ignore newlines until "baseurl:"
+    We make movies.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://convictfilms.com" # the base hostname & protocol for your site
+twitter_username: convictfilms
+
+exclude: [vendor, bin]
+
+# Build settings
+permalink: pretty
+highlighter: rouge
